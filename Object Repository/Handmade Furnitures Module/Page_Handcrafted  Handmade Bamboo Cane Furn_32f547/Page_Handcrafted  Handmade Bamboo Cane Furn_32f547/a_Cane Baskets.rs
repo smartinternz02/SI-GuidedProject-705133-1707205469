@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cane Baskets</name>
+   <tag></tag>
+   <elementGuidId>c08f7d64-4f5b-4ee4-8c1c-6ee1458dca7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-26673']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-26673 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eab41fa3-ac9f-44cb-9e63-cc042c460077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://craferia.com/cane-fruit-baskets/</value>
+      <webElementGuid>14399ab5-34fb-4078-8ea0-6bc9afe9003a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cane Baskets</value>
+      <webElementGuid>27afc88c-5598-40e0-a696-c46b6273fb4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-26673&quot;)/a[1]</value>
+      <webElementGuid>f1316b75-9049-4b09-b439-f25b780119ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-26673']/a</value>
+      <webElementGuid>e0d28176-6081-4ff9-b56d-250585740308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cane Baskets')]</value>
+      <webElementGuid>7dd8fae7-f4ad-40a5-9019-f3f50a1a9dc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iron Stools Frame'])[1]/following::a[1]</value>
+      <webElementGuid>fe060def-b60d-419a-af8c-3294ddae113f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pidha stools'])[1]/following::a[2]</value>
+      <webElementGuid>44fc57bd-2e42-4f21-bf84-890f5acd57af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sofa chair / Long chair'])[1]/preceding::a[1]</value>
+      <webElementGuid>da2acdc5-f2a4-4131-a351-169d6e6dbe36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wooden Furnitures'])[1]/preceding::a[2]</value>
+      <webElementGuid>79056b69-3a8f-4a25-98a6-df70b2323f7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cane Baskets']/parent::*</value>
+      <webElementGuid>45fc9723-0bc5-41de-b449-024c018c5955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://craferia.com/cane-fruit-baskets/')]</value>
+      <webElementGuid>b8d4f45f-01bc-4189-aaab-562db5bfc63e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[6]/a</value>
+      <webElementGuid>5a5ecc8a-d439-4bc4-8e4b-927a7d6a4d32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://craferia.com/cane-fruit-baskets/' and (text() = 'Cane Baskets' or . = 'Cane Baskets')]</value>
+      <webElementGuid>94f4ed62-b4af-44d2-86cd-9eff2bbfc439</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

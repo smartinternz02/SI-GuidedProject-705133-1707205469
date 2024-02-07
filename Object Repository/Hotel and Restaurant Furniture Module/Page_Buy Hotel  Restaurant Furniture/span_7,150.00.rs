@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_7,150.00</name>
+   <tag></tag>
+   <elementGuidId>79493cb7-1d13-46db-a5e6-e35974aea03f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/ul/li[2]/a/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.product.type-product.post-6377.status-publish.instock.product_cat-hotel-restaurant-furniture.product_cat-pidha-stools.has-post-thumbnail.taxable.shipping-taxable.purchasable.product-type-variable > a.woocommerce-LoopProduct-link.woocommerce-loop-product__link > span.price > span.woocommerce-Price-amount.amount</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2b0d9886-5b96-4e10-89b2-7d4dd5675cb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-Price-amount amount</value>
+      <webElementGuid>564cd532-05ec-466b-9c33-b4a88b1bc45e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>₹7,150.00</value>
+      <webElementGuid>08ace4c8-6b9a-4043-bd31-bed29403a01d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/ul[@class=&quot;products columns-4&quot;]/li[@class=&quot;product type-product post-6377 status-publish instock product_cat-hotel-restaurant-furniture product_cat-pidha-stools has-post-thumbnail taxable shipping-taxable purchasable product-type-variable&quot;]/a[@class=&quot;woocommerce-LoopProduct-link woocommerce-loop-product__link&quot;]/span[@class=&quot;price&quot;]/span[@class=&quot;woocommerce-Price-amount amount&quot;]</value>
+      <webElementGuid>aced9131-4c11-44af-abf7-26acbf81b6a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/ul/li[2]/a/span/span</value>
+      <webElementGuid>96bf16e2-753f-48ed-a6f3-3fb6b8c5d51b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Small Charpai Bench with Bamboo Square Mudda Stools | Wooden Bench with Pidha Stools'])[1]/following::span[2]</value>
+      <webElementGuid>59589209-cea6-4503-8c0f-ea6a9b7bd1f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FREE SHIPPING'])[1]/following::span[2]</value>
+      <webElementGuid>17ceff85-197e-4c90-91fc-529678ccb729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select options'])[1]/preceding::span[2]</value>
+      <webElementGuid>6160a660-6a79-4ad2-ab10-22eae0cccf68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='7,150.00']/parent::*</value>
+      <webElementGuid>110534f2-a765-4066-a6c5-1376db5dec5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span/span</value>
+      <webElementGuid>31165bca-05e1-4c5a-86df-e09248cedb7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '₹7,150.00' or . = '₹7,150.00')]</value>
+      <webElementGuid>dbbb415e-4319-4bc6-8028-fb7e9889e74e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

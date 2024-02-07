@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Shoulder bags</name>
+   <tag></tag>
+   <elementGuidId>f1eaae64-66cb-47eb-8c67-cae45e171fbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-26719']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-26719 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b4133da2-7d2d-40cc-aba5-45e6a0ebb7fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://craferia.com/shoulder-bags/</value>
+      <webElementGuid>eae14850-6ba6-4837-ac60-911dfb694040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shoulder bags</value>
+      <webElementGuid>a76f9ad3-1aa9-4e9c-acd0-196115eaf814</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-26719&quot;)/a[1]</value>
+      <webElementGuid>bbd92ff8-3cf9-4ee1-aff1-79442f8115ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-26719']/a</value>
+      <webElementGuid>993b6b8d-640a-4ad3-b082-be1cf15235fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Shoulder bags')]</value>
+      <webElementGuid>aca9a970-90e5-4686-99f0-2b60a5e8220d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='handbags'])[1]/following::a[1]</value>
+      <webElementGuid>6aac941d-ff8b-496c-99d8-92f92935be4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ladies Bags'])[1]/following::a[2]</value>
+      <webElementGuid>afb55d65-4ef8-45be-aea4-81de6925eb20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sling bags'])[1]/preceding::a[1]</value>
+      <webElementGuid>d8b86a4b-c4bb-4f9e-8be9-0f15010fd8f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clutches'])[1]/preceding::a[2]</value>
+      <webElementGuid>dd453d40-fbc5-43d8-b334-2247af0a525e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shoulder bags']/parent::*</value>
+      <webElementGuid>b72ef2ef-436b-494a-9c8a-aa044e49dfcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://craferia.com/shoulder-bags/')]</value>
+      <webElementGuid>ee5ce183-b069-471b-852c-b484c166a030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/ul/li[2]/a</value>
+      <webElementGuid>4f39918a-9dc4-47b0-adfb-0a5c6902e29a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://craferia.com/shoulder-bags/' and (text() = 'Shoulder bags' or . = 'Shoulder bags')]</value>
+      <webElementGuid>0be8b9c9-fbfb-475b-99ad-d0f08a53e4a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

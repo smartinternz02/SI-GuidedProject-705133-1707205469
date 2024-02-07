@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ladies Bags</name>
+   <tag></tag>
+   <elementGuidId>feffeab0-48dc-4c5f-84eb-ed2278916806</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-26717']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-26717 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1560546a-a408-46b1-b817-a67ecb1e6a0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://craferia.com/ladies-bags/</value>
+      <webElementGuid>9fa6dea2-c081-4293-99a4-b4e940179e42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>d6d7e75e-7483-4d73-b629-560d487b0760</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ladies Bags</value>
+      <webElementGuid>88067064-ec3f-4622-9b43-2b4050c7d043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-26717&quot;)/a[1]</value>
+      <webElementGuid>10d59fd6-2439-4e22-938f-730cab7b0a84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-26717']/a</value>
+      <webElementGuid>b2958c06-d741-4110-b012-3bea5f2b698f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Ladies Bags')]</value>
+      <webElementGuid>b43ff498-d26b-44b9-9815-c34308e1bffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bamboo Storage Basket and Utility Baskets'])[1]/following::a[1]</value>
+      <webElementGuid>690bb8d7-8bfb-491c-a68d-0f82993c2e73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Double Tapestry'])[1]/following::a[2]</value>
+      <webElementGuid>d3050f7d-f9d0-4035-859c-0aa9c640f348</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='handbags'])[1]/preceding::a[1]</value>
+      <webElementGuid>e0d354f4-2e72-4051-a30c-980a8c411a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shoulder bags'])[1]/preceding::a[2]</value>
+      <webElementGuid>7446589d-84a0-4b4c-b00c-fd4f51ad19d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ladies Bags']/parent::*</value>
+      <webElementGuid>132d5502-173b-445e-a0ef-de1943231afd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://craferia.com/ladies-bags/')]</value>
+      <webElementGuid>da87eb04-4ba8-4179-b950-3866231a12c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a</value>
+      <webElementGuid>ee2c7d08-aad9-4840-b1c1-26e1b4d9c415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://craferia.com/ladies-bags/' and (text() = 'Ladies Bags' or . = 'Ladies Bags')]</value>
+      <webElementGuid>016427bf-305c-4dba-808c-f3f211890c07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

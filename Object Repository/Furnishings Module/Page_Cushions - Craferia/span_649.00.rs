@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_649.00</name>
+   <tag></tag>
+   <elementGuidId>fb51fe3f-538b-4365-8b83-95274b5f9744</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/ul/li[2]/a/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.product.type-product.post-4641.status-publish.instock.product_cat-cushions.has-post-thumbnail.taxable.shipping-taxable.purchasable.product-type-simple > a.woocommerce-LoopProduct-link.woocommerce-loop-product__link > span.price > span.woocommerce-Price-amount.amount</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6da90b7f-6005-4ab6-b16b-a1d095f8859a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-Price-amount amount</value>
+      <webElementGuid>989e0a7e-dc3e-435d-afa8-0e07e18ffd03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>₹649.00</value>
+      <webElementGuid>8c0319b7-e1e9-4518-ae20-13d9f9216a76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/ul[@class=&quot;products columns-4&quot;]/li[@class=&quot;product type-product post-4641 status-publish instock product_cat-cushions has-post-thumbnail taxable shipping-taxable purchasable product-type-simple&quot;]/a[@class=&quot;woocommerce-LoopProduct-link woocommerce-loop-product__link&quot;]/span[@class=&quot;price&quot;]/span[@class=&quot;woocommerce-Price-amount amount&quot;]</value>
+      <webElementGuid>1e4251df-24ca-464e-862b-5a36a143ed2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/ul/li[2]/a/span/span</value>
+      <webElementGuid>0d7b72a2-8406-4a3f-9c18-3c7f2f77673b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Traditional Jaipuri Peacock Patch Work Cotton Cushion Covers – Set of 5'])[1]/following::span[2]</value>
+      <webElementGuid>68a069b0-35d5-49bb-b2f3-04207733744b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[1]/following::span[2]</value>
+      <webElementGuid>2c8eb1ed-b2e2-40d2-b56e-337b8c658384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[2]/preceding::span[2]</value>
+      <webElementGuid>af6b4700-d61c-4dc5-a206-4da8f578ee91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span/span</value>
+      <webElementGuid>70bd656a-77c2-4466-86c2-9f70d1f2e713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '₹649.00' or . = '₹649.00')]</value>
+      <webElementGuid>6b4507b8-eb09-4ea8-b715-b9afddfd6a18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

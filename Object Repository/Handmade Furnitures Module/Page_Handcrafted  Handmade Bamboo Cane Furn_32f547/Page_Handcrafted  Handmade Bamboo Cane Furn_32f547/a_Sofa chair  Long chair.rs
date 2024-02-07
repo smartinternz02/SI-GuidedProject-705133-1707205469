@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sofa chair  Long chair</name>
+   <tag></tag>
+   <elementGuidId>685faa4a-c185-4d67-ba89-c1d79baa57ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-26674']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-26674 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>17e5b297-a68b-4408-98a0-fd806733d39c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://craferia.com/sofa-chair-long-chair/</value>
+      <webElementGuid>c3bcfec0-7db8-402e-bad5-57d94534d155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sofa chair / Long chair</value>
+      <webElementGuid>a33e97fb-75c9-4e14-8b5b-e889368a9bb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-26674&quot;)/a[1]</value>
+      <webElementGuid>5e2e5c18-3fc9-400b-8e31-ba75a061019f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-26674']/a</value>
+      <webElementGuid>f66fddcf-36c9-4082-b3ab-870d04996e01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sofa chair / Long chair')]</value>
+      <webElementGuid>cddfb958-b5b1-4999-a501-2259d654bcd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cane Baskets'])[1]/following::a[1]</value>
+      <webElementGuid>5ebed893-91e8-4439-a054-9bf64b4f5295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iron Stools Frame'])[1]/following::a[2]</value>
+      <webElementGuid>9c0d8da0-c1e3-47e0-b211-b500ddf9f0e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wooden Furnitures'])[1]/preceding::a[1]</value>
+      <webElementGuid>5ff3be3a-743d-499e-a0c3-8cc7841c7fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cane Furniture'])[1]/preceding::a[2]</value>
+      <webElementGuid>6b255ca5-1d3d-478d-9daa-b61886578498</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sofa chair / Long chair']/parent::*</value>
+      <webElementGuid>f04dd465-c385-42e9-8e28-5577e68e685b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://craferia.com/sofa-chair-long-chair/')]</value>
+      <webElementGuid>b5aa7739-d70d-4999-8a20-f6c3578457b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[7]/a</value>
+      <webElementGuid>d5a179c7-dadf-47db-b17c-78c6fd3177d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://craferia.com/sofa-chair-long-chair/' and (text() = 'Sofa chair / Long chair' or . = 'Sofa chair / Long chair')]</value>
+      <webElementGuid>4982c9cf-e4a8-43d2-852e-30cf4aab74b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

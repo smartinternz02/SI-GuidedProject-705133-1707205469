@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_5,400.00</name>
+   <tag></tag>
+   <elementGuidId>021c6298-a9b5-4252-8161-b30cee5831f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/ul/li[2]/a/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.product.type-product.post-27224.status-publish.instock.product_cat-bamboo-shelf-rack.has-post-thumbnail.taxable.shipping-taxable.purchasable.product-type-simple > a.woocommerce-LoopProduct-link.woocommerce-loop-product__link > span.price > span.woocommerce-Price-amount.amount</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fe0c3982-b7b5-4915-8bd5-01d8f76116ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-Price-amount amount</value>
+      <webElementGuid>a4bf9378-a144-4955-a5d5-8e256e4f8116</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>₹5,400.00</value>
+      <webElementGuid>9f574ed4-8e93-4954-9b8e-ec16dd3f5c3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/ul[@class=&quot;products columns-4&quot;]/li[@class=&quot;product type-product post-27224 status-publish instock product_cat-bamboo-shelf-rack has-post-thumbnail taxable shipping-taxable purchasable product-type-simple&quot;]/a[@class=&quot;woocommerce-LoopProduct-link woocommerce-loop-product__link&quot;]/span[@class=&quot;price&quot;]/span[@class=&quot;woocommerce-Price-amount amount&quot;]</value>
+      <webElementGuid>de946188-9967-4a50-af37-ec233d0ce298</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/ul/li[2]/a/span/span</value>
+      <webElementGuid>dc51910a-cddf-4255-bd0d-ea7628fcbf3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FREE SHIPPING'])[2]/following::span[2]</value>
+      <webElementGuid>237ac583-98d4-4b66-987d-39f6ab514d40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[1]/following::span[3]</value>
+      <webElementGuid>43f80b9d-e337-4b4d-ab86-a03a266b89f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[2]/preceding::span[2]</value>
+      <webElementGuid>4e17684f-245e-4623-aac6-8fc23dff4360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span/span</value>
+      <webElementGuid>a91b1e8f-658e-4664-b6e3-3745f4431125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '₹5,400.00' or . = '₹5,400.00')]</value>
+      <webElementGuid>e2f0ed46-2631-461c-8312-323bcb91b1d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

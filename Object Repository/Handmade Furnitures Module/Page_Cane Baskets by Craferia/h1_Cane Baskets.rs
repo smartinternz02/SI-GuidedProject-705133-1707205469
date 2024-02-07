@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Cane Baskets</name>
+   <tag></tag>
+   <elementGuidId>7ae29e51-6c13-4a98-92b5-9670ee5f9206</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/header/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.woocommerce-products-header__title.page-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>50ca7261-d4f4-4a77-9754-7ded0a3d4731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-products-header__title page-title</value>
+      <webElementGuid>fed00f56-035d-41ac-bceb-a09c299664ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cane Baskets</value>
+      <webElementGuid>8d51fdc4-6b76-4686-b5dc-e64bb3ad8133</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;woocommerce-products-header&quot;]/h1[@class=&quot;woocommerce-products-header__title page-title&quot;]</value>
+      <webElementGuid>6632b79e-d24a-4dbf-b174-9194b759013c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/header/h1</value>
+      <webElementGuid>c731f0f9-3d42-42d4-99ef-8b7916efcf5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::h1[1]</value>
+      <webElementGuid>c91ef020-077a-43ac-8940-d9594c3f81b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Handmade Furnitures'])[3]/following::h1[1]</value>
+      <webElementGuid>3a8666b4-9e18-487f-8655-02c3f9cad552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='→'])[1]/preceding::h1[1]</value>
+      <webElementGuid>346c1f08-7a31-43e5-b953-9f2463c1c5aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>05a4f78b-6330-44b2-8779-e87325ce3086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Cane Baskets' or . = 'Cane Baskets')]</value>
+      <webElementGuid>1f141161-0a85-42e6-abee-701bfdc5a9af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

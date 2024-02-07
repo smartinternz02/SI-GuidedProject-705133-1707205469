@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Natural Mudha</name>
+   <tag></tag>
+   <elementGuidId>0162b672-a822-474e-bd74-ed40b1f34bac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-26668']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-26668 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4a25b912-a403-4feb-83f1-02b4477d5e9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://craferia.com/natural-mudha/</value>
+      <webElementGuid>db65abcc-1a58-453c-aefa-4142b0795df8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Natural Mudha</value>
+      <webElementGuid>605d7a77-c422-4096-8196-15c05085f915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-26668&quot;)/a[1]</value>
+      <webElementGuid>65c9fad9-77aa-4810-9e84-acf004981101</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-26668']/a</value>
+      <webElementGuid>bdd734d5-3e2c-497f-8f72-44b9c6129c05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Natural Mudha')]</value>
+      <webElementGuid>098df063-511b-482c-b57b-2094abc36a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bamboo Laundry &amp; Organizer Baskets'])[1]/following::a[1]</value>
+      <webElementGuid>d5ed0881-5cb8-4e11-8a3b-38543d113480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bamboo Shelf / Rack'])[1]/following::a[2]</value>
+      <webElementGuid>b84ba561-22ea-4f3f-9bb9-5946b66e8072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pidha stools'])[1]/preceding::a[1]</value>
+      <webElementGuid>0c1458db-9306-4929-887b-121f8d362ebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iron Stools Frame'])[1]/preceding::a[2]</value>
+      <webElementGuid>fb900ef7-5901-4826-a152-97b2a6e21acd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Natural Mudha']/parent::*</value>
+      <webElementGuid>9f0e44a0-68f9-48da-bd6f-346fe0e1e404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://craferia.com/natural-mudha/')]</value>
+      <webElementGuid>e0287c74-d730-4fbd-adfc-94a7a481b435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[3]/a</value>
+      <webElementGuid>51853e95-ff84-48c9-b5ea-f79d3c092df6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://craferia.com/natural-mudha/' and (text() = 'Natural Mudha' or . = 'Natural Mudha')]</value>
+      <webElementGuid>ba966a83-9bcd-4623-a45d-751f4601203f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_FREE SHIPPINGRound Rattan Cane Chair  Rec_d5cfb9</name>
+   <tag></tag>
+   <elementGuidId>74a2f8ec-6dc6-4c0f-afa0-1989a6350673</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.woocommerce-LoopProduct-link.woocommerce-loop-product__link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c72f4fee-87c5-4872-b080-07c0aeda7e57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://craferia.com/round-rattan-cane-recliner-chair-indoor-outdoor/</value>
+      <webElementGuid>b01550a6-1d47-477a-82a1-11a113d21370</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-LoopProduct-link woocommerce-loop-product__link</value>
+      <webElementGuid>16902f27-c3b5-419a-b8b1-6e726017afe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FREE SHIPPINGRound Rattan Cane Chair | Recliner Chair for Indoor Outdoor
+	₹5,700.00
+</value>
+      <webElementGuid>d093637e-8426-4593-9862-acf2f9c6626a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/ul[@class=&quot;products columns-4&quot;]/li[@class=&quot;product type-product post-28194 status-publish first instock product_cat-cane-furniture has-post-thumbnail taxable shipping-taxable purchasable product-type-simple&quot;]/a[@class=&quot;woocommerce-LoopProduct-link woocommerce-loop-product__link&quot;]</value>
+      <webElementGuid>5f56d8ca-f16d-4c81-990e-0352398077bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/ul/li/a</value>
+      <webElementGuid>b2d9fd52-eab5-4373-89d4-7c18ba2d89b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='→'])[1]/following::a[1]</value>
+      <webElementGuid>1d9879d9-8c17-4162-8561-9c466f350010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cane Furniture'])[3]/following::a[4]</value>
+      <webElementGuid>81cce93b-60e3-419a-8bc2-c4c27b97c0e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://craferia.com/round-rattan-cane-recliner-chair-indoor-outdoor/')]</value>
+      <webElementGuid>2bd3151f-ffa0-435a-afff-fa1658d139a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/ul/li/a</value>
+      <webElementGuid>ecf07cf8-caa6-4b52-9d05-2ec79ef57460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://craferia.com/round-rattan-cane-recliner-chair-indoor-outdoor/' and (text() = 'FREE SHIPPINGRound Rattan Cane Chair | Recliner Chair for Indoor Outdoor
+	₹5,700.00
+' or . = 'FREE SHIPPINGRound Rattan Cane Chair | Recliner Chair for Indoor Outdoor
+	₹5,700.00
+')]</value>
+      <webElementGuid>837d3c10-75f0-4ccf-9d78-98bba48cab4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

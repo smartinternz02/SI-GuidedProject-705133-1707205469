@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Our new range of Handcrafted  Handmade Fu_01f442</name>
+   <tag></tag>
+   <elementGuidId>1a5822e1-fb79-4b50-b986-9e0635aef042</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/header/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.term-description > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0a522dec-a114-4936-bb15-fed39ccf02c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Our new range of Handcrafted &amp; Handmade Furniture bamboo cane furniture, designed to add a touch of elegance and class to your home decor.Our bamboo cane furniture is meticulously crafted by skilled artisans, who have a passion for creating furniture that is both beautiful and functional.</value>
+      <webElementGuid>fba293c4-239a-491a-93a1-3adfc77602db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;woocommerce-products-header&quot;]/div[@class=&quot;term-description&quot;]/p[1]</value>
+      <webElementGuid>8819113f-de5d-4878-a8e9-71fa9e83c1f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/header/div/p</value>
+      <webElementGuid>f9599134-84d9-4323-8ea9-970fdbb81192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Handmade Furnitures'])[3]/following::p[1]</value>
+      <webElementGuid>469d4fee-f421-4678-b1f4-07c11f1d9aa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::p[1]</value>
+      <webElementGuid>6143ddab-44b6-47d7-b13c-3168dba8e7d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(55)'])[1]/preceding::p[2]</value>
+      <webElementGuid>3b6dfe2b-0de0-47d8-9e4d-d60acdaf04c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Our new range of Handcrafted &amp; Handmade Furniture bamboo cane furniture, designed to add a touch of elegance and class to your home decor.Our bamboo cane furniture is meticulously crafted by skilled artisans, who have a passion for creating furniture that is both beautiful and functional.']/parent::*</value>
+      <webElementGuid>b870172a-a790-4244-a877-1ea48cb13427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/p</value>
+      <webElementGuid>19204419-7b51-4e5d-9e45-a963465105b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Our new range of Handcrafted &amp; Handmade Furniture bamboo cane furniture, designed to add a touch of elegance and class to your home decor.Our bamboo cane furniture is meticulously crafted by skilled artisans, who have a passion for creating furniture that is both beautiful and functional.' or . = 'Our new range of Handcrafted &amp; Handmade Furniture bamboo cane furniture, designed to add a touch of elegance and class to your home decor.Our bamboo cane furniture is meticulously crafted by skilled artisans, who have a passion for creating furniture that is both beautiful and functional.')]</value>
+      <webElementGuid>96cc20a1-cf71-483d-9952-f5be555ba166</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

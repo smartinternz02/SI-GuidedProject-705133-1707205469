@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header_Furnishings</name>
+   <tag></tag>
+   <elementGuidId>a0113ee1-cc56-49ee-9136-9e4d324a1779</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/header</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>header.woocommerce-products-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>header</value>
+      <webElementGuid>f3d084c8-8de2-4882-b6f1-eb612e2f52ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-products-header</value>
+      <webElementGuid>e11bce74-2640-4530-9795-1196adfb968e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+			Furnishings
+	
+	</value>
+      <webElementGuid>03df851e-2df0-4108-ac3c-aee2e468967b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;woocommerce-products-header&quot;]</value>
+      <webElementGuid>3e5faa6d-42cc-4b7a-aabb-02113e07a269</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/header</value>
+      <webElementGuid>678ff46f-607a-4fb2-adee-95c4f8208b8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::header[1]</value>
+      <webElementGuid>e4308c50-22c2-4053-9202-aded6b648523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Handicrafts'])[1]/following::header[1]</value>
+      <webElementGuid>ac893298-6e2e-4d9f-97bf-feca815f43fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/header</value>
+      <webElementGuid>d8c983e7-8f58-410e-93f1-467320a7a437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//header[(text() = '
+			Furnishings
+	
+	' or . = '
+			Furnishings
+	
+	')]</value>
+      <webElementGuid>a5d1a0b0-8263-480b-8b39-95a3353f8703</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

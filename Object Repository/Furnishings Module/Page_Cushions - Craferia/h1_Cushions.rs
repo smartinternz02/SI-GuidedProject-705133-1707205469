@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Cushions</name>
+   <tag></tag>
+   <elementGuidId>5e05d2db-92a9-4fda-928f-15cee27018ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/header/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.woocommerce-products-header__title.page-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>0b030981-18be-46b4-8cfd-55e1c40179d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-products-header__title page-title</value>
+      <webElementGuid>34106780-ea08-4fe6-a4ea-11b2a6f7be87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cushions</value>
+      <webElementGuid>75533e54-ae75-4703-8f68-64ec76d6bcf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;woocommerce-products-header&quot;]/h1[@class=&quot;woocommerce-products-header__title page-title&quot;]</value>
+      <webElementGuid>1232f2d4-ab3f-4735-8157-8bda10672c05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/header/h1</value>
+      <webElementGuid>b907b303-074e-4035-bbd0-b376432431b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::h1[1]</value>
+      <webElementGuid>7c799e64-b725-4766-94d2-7cec711d55d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Furnishings'])[3]/following::h1[1]</value>
+      <webElementGuid>20100258-3298-4132-b5ba-cc198a4c228d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='→'])[1]/preceding::h1[1]</value>
+      <webElementGuid>388d68b6-98e3-4a34-8678-d8c8df5e3257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jaipuri printed Cushion cover for home decor'])[1]/preceding::h1[1]</value>
+      <webElementGuid>f2d32a9b-2ed6-4330-8989-ffd4654a341b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>10bad595-b48d-40aa-87ca-76b44bb538cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Cushions' or . = 'Cushions')]</value>
+      <webElementGuid>a55a6d3b-8bcf-4be3-b533-6f9910fdb573</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Placemats  Runners</name>
+   <tag></tag>
+   <elementGuidId>ba3bda05-cc85-434b-bd43-8a1b8b8a6dbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/header/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.woocommerce-products-header__title.page-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>d38f08c5-cd94-4b1f-ac39-2cedb4aeeee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-products-header__title page-title</value>
+      <webElementGuid>a5b06158-f070-4387-9966-222b184a9f09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Placemats &amp; Runners</value>
+      <webElementGuid>fb979de3-e274-440d-8556-133c8705ac63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;woocommerce-products-header&quot;]/h1[@class=&quot;woocommerce-products-header__title page-title&quot;]</value>
+      <webElementGuid>e8912f7e-d1e1-412c-9812-3c69dba2d19b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/header/h1</value>
+      <webElementGuid>0dc0619b-b677-4210-adf6-8c4aa6ba5a36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::h1[1]</value>
+      <webElementGuid>a5f2bb68-096b-4e47-963d-6ca9f6124990</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Furnishings'])[3]/following::h1[1]</value>
+      <webElementGuid>bc6a2de9-b12d-4562-86cb-9b183cf2dd94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='→'])[1]/preceding::h1[1]</value>
+      <webElementGuid>0aeeb1dc-48e5-4402-8d71-80296915dae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>538fe89a-5c6c-4712-b046-4591aad4bf4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Placemats &amp; Runners' or . = 'Placemats &amp; Runners')]</value>
+      <webElementGuid>513d76b9-77ee-4e25-aefb-100eb6fcbd5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

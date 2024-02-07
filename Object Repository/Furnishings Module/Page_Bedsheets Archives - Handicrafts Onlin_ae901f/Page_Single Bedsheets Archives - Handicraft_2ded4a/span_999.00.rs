@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_999.00</name>
+   <tag></tag>
+   <elementGuidId>93d753d4-f1bf-4027-8416-e7dfdbccc10e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/ul/li[2]/a/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.product.type-product.post-3945.status-publish.instock.product_cat-single-bedsheets.has-post-thumbnail.taxable.shipping-taxable.purchasable.product-type-variable > a.woocommerce-LoopProduct-link.woocommerce-loop-product__link > span.price > span.woocommerce-Price-amount.amount</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c644a469-3456-4ce3-92b8-f0afa0151a6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-Price-amount amount</value>
+      <webElementGuid>bde8aa7c-ccb1-4dc6-bf0f-2db6be128501</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>₹999.00</value>
+      <webElementGuid>9f96bf06-9610-4c96-9d61-67d60446028b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/ul[@class=&quot;products columns-4&quot;]/li[@class=&quot;product type-product post-3945 status-publish instock product_cat-single-bedsheets has-post-thumbnail taxable shipping-taxable purchasable product-type-variable&quot;]/a[@class=&quot;woocommerce-LoopProduct-link woocommerce-loop-product__link&quot;]/span[@class=&quot;price&quot;]/span[@class=&quot;woocommerce-Price-amount amount&quot;]</value>
+      <webElementGuid>f0b0099d-2d7d-486d-b453-190dfe7701e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/ul/li[2]/a/span/span</value>
+      <webElementGuid>3c2c8ea6-e985-44ba-ac89-b8d39536c334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select options'])[1]/following::span[2]</value>
+      <webElementGuid>8f4c34ba-1b40-4346-8c14-937c37f11000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select options'])[2]/preceding::span[2]</value>
+      <webElementGuid>4840cc96-dfb4-4159-b6d6-c1e1d8e46b72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='999.00']/parent::*</value>
+      <webElementGuid>e9cd236b-9323-40d8-bfc8-63c4e56c4d47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span/span</value>
+      <webElementGuid>42a0a033-7215-4829-a1ed-9ae7faac450c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '₹999.00' or . = '₹999.00')]</value>
+      <webElementGuid>dc5c469e-e538-4ecf-ae61-1cdf1b06433d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Iron Stools Frame</name>
+   <tag></tag>
+   <elementGuidId>72c5e24c-5cfd-4472-8d51-a78cc7c59360</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-26671']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-26671 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>edcf1d6d-31aa-46b3-9a32-67c4951af798</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://craferia.com/iron-stools-frame/</value>
+      <webElementGuid>9fac00fb-5dfa-426e-a602-c1df1eb14171</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Iron Stools Frame</value>
+      <webElementGuid>ca954174-4a75-45ba-804d-81b4f429d17b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-26671&quot;)/a[1]</value>
+      <webElementGuid>5b5a2ae7-eb98-4216-b11c-619fc2b08d51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-26671']/a</value>
+      <webElementGuid>24150b0e-b472-411a-9fe8-088f5bb0f172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Iron Stools Frame')]</value>
+      <webElementGuid>2824fcfd-0e4f-478d-bd02-692d9b98743e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pidha stools'])[1]/following::a[1]</value>
+      <webElementGuid>97a27a54-73f0-4537-98bc-3250ee37a089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Natural Mudha'])[1]/following::a[2]</value>
+      <webElementGuid>8921ae8b-ee36-42df-a905-fd10e330f807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cane Baskets'])[1]/preceding::a[1]</value>
+      <webElementGuid>7153eb0b-5d26-4320-b354-af7812d3d43a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sofa chair / Long chair'])[1]/preceding::a[2]</value>
+      <webElementGuid>a31a71db-867c-4bc6-a061-7ab5f40431cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Iron Stools Frame']/parent::*</value>
+      <webElementGuid>42f7a134-3927-4f4e-9f7d-b00fd1be2a3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://craferia.com/iron-stools-frame/')]</value>
+      <webElementGuid>1004460f-1235-4c13-9ee6-100da9269986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[5]/a</value>
+      <webElementGuid>f18f5766-01b3-4b93-8168-9297a651408a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://craferia.com/iron-stools-frame/' and (text() = 'Iron Stools Frame' or . = 'Iron Stools Frame')]</value>
+      <webElementGuid>5881b07c-224a-4734-b373-ac35c6926120</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
