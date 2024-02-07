@@ -27,3 +27,7 @@ Any other dependencies
 Conclusion:
 
 The Craferia automation project provides a framework for automating various tasks within the Craferia web application using Python, Selenium, and Robot Framework. With this documentation, you should be able to set up the project, execute tests, and extend/customize it according to your needs.
+
+Demo link:
+google drive link
+https://drive.google.com/file/d/1npaGB9RCpRbOM-0icjexdFzGqX-0xjmu/view?usp=sharing
