@@ -5,7 +5,7 @@ It also has various varieties of items related to occasions wise and also giving
 
 ![image](https://github.com/smartinternz02/SI-GuidedProject-705133-1707205469/assets/104365761/36e7568e-e855-4c16-86a6-36a6d6ae538f)
 
-Project Flow
+Project Flow:
 
 User can search the desired product from global search
 User can register once and continue shopping and track items while delivery
@@ -15,7 +15,7 @@ Modules Structure:
 
 We have different modules in this all the modules are listed below,
 
-Software Tools
+Software Tools:
 
 List the software and tools that need to be installed before running the project, such as:
 
@@ -24,5 +24,6 @@ Selenium (3.x)
 Robot Framework (6.x)
 Any other dependencies
 
-Conclusion
+Conclusion:
+
 The Craferia automation project provides a framework for automating various tasks within the Craferia web application using Python, Selenium, and Robot Framework. With this documentation, you should be able to set up the project, execute tests, and extend/customize it according to your needs.
