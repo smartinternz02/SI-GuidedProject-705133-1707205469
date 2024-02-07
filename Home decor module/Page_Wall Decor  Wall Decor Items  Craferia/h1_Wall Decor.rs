@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Wall Decor</name>
+   <tag></tag>
+   <elementGuidId>e3345deb-b9f3-4cb7-8cca-6e633e1b3877</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/header/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.woocommerce-products-header__title.page-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>f3756217-7a34-42b1-bd11-a2713ab8b095</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-products-header__title page-title</value>
+      <webElementGuid>734d224b-37c0-481c-a0f9-29e28d91fd7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wall Decor</value>
+      <webElementGuid>398944a5-d26a-4b43-a897-b5d539d1cd9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;woocommerce-products-header&quot;]/h1[@class=&quot;woocommerce-products-header__title page-title&quot;]</value>
+      <webElementGuid>9f9f78ff-f112-47ab-aed0-3cb09f17bd87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/header/h1</value>
+      <webElementGuid>caf4ff58-0eb6-40ff-93f2-d582cb7bbaa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::h1[1]</value>
+      <webElementGuid>bbcc0768-eae1-4316-b363-c7f9231cc681</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home Decor - Items &amp; Gifts'])[1]/following::h1[1]</value>
+      <webElementGuid>25f12120-9b90-4f5b-870c-92eee8756799</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(44)'])[1]/preceding::h1[1]</value>
+      <webElementGuid>46980fab-240c-4f10-bd20-6dafec3a953e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>2c851324-51b4-45eb-9633-59d33c54de71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Wall Decor' or . = 'Wall Decor')]</value>
+      <webElementGuid>06147817-17aa-4ca8-8319-7f05f05c9f96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

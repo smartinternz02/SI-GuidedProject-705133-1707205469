@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_599.00</name>
+   <tag></tag>
+   <elementGuidId>707a3b49-62f2-48c3-a645-9a74b30887ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/ul/li[2]/a/span/ins/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.product.type-product.post-4352.status-publish.instock.product_cat-diffuser-burner.has-post-thumbnail.sale.taxable.shipping-taxable.purchasable.product-type-variable > a.woocommerce-LoopProduct-link.woocommerce-loop-product__link > span.price > ins > span.woocommerce-Price-amount.amount</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>27e2387d-390e-4e07-b34e-0bfa358a55f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-Price-amount amount</value>
+      <webElementGuid>9cd5e6c2-b80f-4301-8579-2bdeb38a2e0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>₹599.00</value>
+      <webElementGuid>c0d80c43-b30b-410c-82d3-bfe476cc11cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/ul[@class=&quot;products columns-4&quot;]/li[@class=&quot;product type-product post-4352 status-publish instock product_cat-diffuser-burner has-post-thumbnail sale taxable shipping-taxable purchasable product-type-variable&quot;]/a[@class=&quot;woocommerce-LoopProduct-link woocommerce-loop-product__link&quot;]/span[@class=&quot;price&quot;]/ins[1]/span[@class=&quot;woocommerce-Price-amount amount&quot;]</value>
+      <webElementGuid>3b22f4b8-d4ff-4180-8d64-39db412e0f98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/ul/li[2]/a/span/ins/span</value>
+      <webElementGuid>c8d10f0b-0076-4df1-ae67-d232b4927468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[4]/following::span[1]</value>
+      <webElementGuid>d069f119-1671-40b8-bf48-f7008481b429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegant Ceramic Diffuser With Aroma essence Set'])[1]/following::span[4]</value>
+      <webElementGuid>cd9292ee-5fbb-4e76-9a75-5251c6b0ebbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select options'])[1]/preceding::span[2]</value>
+      <webElementGuid>549886e7-1a96-4f9d-92c7-bdd4f9669a40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='599.00']/parent::*</value>
+      <webElementGuid>676e3fd4-dc02-429d-ad6a-141209d38adf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span/ins/span</value>
+      <webElementGuid>9e4a469b-b8de-4ced-abde-027fbf54bb50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '₹599.00' or . = '₹599.00')]</value>
+      <webElementGuid>0961354c-6c04-4113-9152-b4d2e0a8e773</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
