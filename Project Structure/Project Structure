@@ -1,1 +1,4 @@
-A
+The Directory "Test Cases" contain the "test Scripts" which are created. their reports are stored in the directory "Reports/SelfHealing".
+The Directory "Object Repository" contains the objects which the task modules mentioned in the guided project in smartinternz platform
+
+"Requirements.txt" file containing all software’s/libraries required for our projects. 
