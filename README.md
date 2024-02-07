@@ -15,94 +15,94 @@ Modules Structure:
 
 We have different modules in this all the modules are listed below,
 
-Home Decor
+*Home Decor
 
 
 
-Showpieces & Figurines
+*Showpieces & Figurines
 
-Wall Decor
+.Wall Decor
 
-Home Accents
+.Home Accents
 
-Lamps & Lightings
+.Lamps & Lightings
 
-Clock
+.Clock
 
-Key Holders
-
-
-
-Handmade Furnitures
+.Key Holders
 
 
 
-Bamboo Furniture
-
-Cane Furnitures
-
-Natural Mudha
-
-Cane Fruit Baskets
-
-Sofa chair / Long chair
-
-Pidha stools
-
-Iron Stools Frame
-
-Bamboo Laundry & Organizer Baskets
-
-Wooden Furnitures
+*Handmade Furnitures
 
 
 
-Hotel & Restaurant Furniture
+.Bamboo Furniture
+
+.Cane Furnitures
+
+.Natural Mudha
+
+.Cane Fruit Baskets
+
+.Sofa chair / Long chair
+
+.Pidha stools
+
+.Iron Stools Frame
+
+.Bamboo Laundry & Organizer Baskets
+
+.Wooden Furnitures
 
 
 
-Outdoor Furniture
+*Hotel & Restaurant Furniture
 
 
 
-Mudha
+*Outdoor Furniture
 
 
 
-Mudha Stools
-
-Mudha chairs
-
-Mudha Table
+*Mudha
 
 
 
-Furnishings
+.Mudha Stools
+
+.Mudha chairs
+
+.Mudha Table
 
 
 
-Cushions
-
-Rugs
-
-Placemats & Runners
-
-Bedsheets
-
-Blankets & Quilts
+*Furnishings
 
 
 
-More
+.Cushions
+
+.Rugs
+
+.Placemats & Runners
+
+.Bedsheets
+
+.Blankets & Quilts
+
+
+
+*More
 
 
 
 
-Baskets / Bags
+.Baskets / Bags
 
-Tapestry
+.Tapestry
 
-Occasions
+.Occasions
 
 Type
 
