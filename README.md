@@ -31,3 +31,10 @@ The Craferia automation project provides a framework for automating various task
 Demo link:
 google drive link
 https://drive.google.com/file/d/1npaGB9RCpRbOM-0icjexdFzGqX-0xjmu/view?usp=sharing
+
+Project Structure:
+
+1) The directory " Demo video and Screenshots" contains the Demo video and screenshots of the project. 
+   Note: since my system can not record different windows at a time i recorded the video seperatly for test cases, test executions and etc.
+2) The directory "Project file" contains the actual project for craferia mannual testing.
+3) The directory "Documents" contain the Project task modules and project structure.
