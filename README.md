@@ -19,9 +19,9 @@ Software Tools:
 
 List the software and tools that need to be installed before running the project, such as:
 
-Python (3.x)
+Groovy
+Java
 Selenium (3.x)
-Robot Framework (6.x)
 Any other dependencies
 
 Conclusion:
